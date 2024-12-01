@@ -18,4 +18,4 @@
 
 
 ## Схема работы
-![sh]()
+![sh](https://github.com/Iguana-Team/.github/blob/main/profile/sh.png)
