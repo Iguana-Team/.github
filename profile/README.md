@@ -19,3 +19,6 @@
 
 ## Схема работы
 ![sh](https://github.com/Iguana-Team/.github/blob/main/profile/sh.png)
+
+## Нормальная схема работы
+![by turkin](https://github.com/Iguana-Team/.github/blob/main/profile/photo_2024-12-01_21-21-31.jpg)
