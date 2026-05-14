@@ -1,4 +1,4 @@
-# Iguana Team - сосать мтс
+# Iguana Team
 
 
 ## Запуск решения
